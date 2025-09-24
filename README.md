@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there! I'm MiaoBoLo.
+![Typing SVG][https://readme-typing-svg.demolab.com/demo/?weight=500&color=3D77F7&lines=良机一直都挂在你眼前]
 
-<!--
-**sakana6875/sakana6875** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm a college student who is just starting to learn computer science.
 
-Here are some ideas to get you started:
+## About ME
+- Member of [@NCUHOME](https://github.com/NCUHOME)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies I'm learning
+- C
+- C#
+- Unity
+- Git & GitHub
+
+## GitHub statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakana6875&show_icons=true)
+
+---
+
+*Thanks for your visit!*
